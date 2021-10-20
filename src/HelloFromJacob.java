@@ -1,6 +1,3 @@
-
-
-
 public class HelloFromJacob {
 
     public static void main(String[] args) {
@@ -8,6 +5,6 @@ public class HelloFromJacob {
         System.out.println("");
         System.out.println("Hey this is Arturo :D");
 
-        System.out.println("How are you Brother Emrich?");
+        System.out.println("Hello from Eric");
     }
 }
